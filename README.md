@@ -18,4 +18,4 @@ It performs basic arithmetic operations with a smooth user interface and respons
 [👉 View on Netlify](https://calculator-project-site-1.netlify.app/)
 
 ## 📸 Screenshot
-![Calculator App Screenshot](screenshot.png)
+![Calculator App Screenshot](screenshot4.png)
