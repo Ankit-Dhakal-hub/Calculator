@@ -15,7 +15,7 @@ It performs basic arithmetic operations with a smooth user interface and respons
 - JavaScript  
 
 ## 🚀 Live Demo
-[👉 View on Netlify](https://stopwatch-1-3.netlify.app/)
+[👉 View on Netlify](https://calculator-project-site-1.netlify.app/)
 
 ## 📸 Screenshot
 ![Calculator App Screenshot](screenshot.png)
